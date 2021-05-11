@@ -2,7 +2,7 @@
 #### I am Front-end Dev
  
 
-Skills: Flutter / Python / REACT / JS / HTML / CSS / 
+Skills: Flutter / Python / JS / HTML / CSS / 
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning MERN Stack 
